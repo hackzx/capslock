@@ -4,6 +4,6 @@
 
 Install sharpkeys and import swapAltandCtrl.skl, or just run swapAltandCtrl.bat
 
-## Remap Windows keyboard shortcut to macOS keyboart shortcut with autohotkey
+## Remap Windows keyboard shortcut to macOS keyboart shortcut with [autohotkey](https://www.autohotkey.com/)
 
 Install autohotkey and run shortcutKeys.ahk or just run shortcutKeys.exe.
